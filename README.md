@@ -62,7 +62,7 @@ Cloud-based Backend Engineering, 2024
 
 
 ## 📊 GitHub Stats
-https://ghstats.dev/api/card?username=TrixieL20&theme=light&border_radius=41
+![GitHub Stats](https://ghstats.dev/api/card?username=TrixieL20&theme=light&border_radius=41)
 <br>
 
 ## 🏆 Awards & Certifications
