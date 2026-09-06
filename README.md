@@ -8,8 +8,6 @@
 Java / Spring 기반의 Backend 개발을 중심으로
 AWS, Docker, Kubernetes, Terraform 등의 Cloud & Infrastructure 기술을 학습하고 있습니다.
 
-최근에는 **LLM · RAG · LangGraph**를 활용한 AI 서비스 개발 경험도 쌓고 있습니다.
-
 <br>
 
 ---
@@ -24,6 +22,9 @@ Datacenter Break/Fix · Hardware · Network · Infrastructure
 
 ☁️ **Microsoft Datacenter Academy**
 Cloud Infrastructure · Terraform · Kubernetes · Storage · PXE Boot
+
+🪜 **Samsung SW·AI Academy(SSAFY)**
+Java Track
 
 🚀 **Naver Boostcamp Web**
 Basic & Challenge Track
@@ -59,12 +60,6 @@ Cloud-based Backend Engineering
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square\&logo=terraform\&logoColor=white)
 
-### AI / Data
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
@@ -76,47 +71,6 @@ Cloud-based Backend Engineering
 ## 🚀 Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🎬 NFlix
-
-**Cloud-based Media Service Infrastructure**
-
-AWS 기반 미디어 서비스 인프라 구축 프로젝트
-
-* Terraform 기반 AWS Infrastructure as Code
-* S3 + CloudFront
-* ECS Fargate
-* RDS PostgreSQL
-* GitHub Actions CI/CD
-* Cloud Architecture 설계
-
-**`AWS` `Terraform` `Docker` `ECS` `S3` `CloudFront`**
-
-</td>
-
-<td width="50%">
-
-### 🤖 SSAFY AI Chatbot
-
-**AI 취업·교육 지원 챗봇**
-
-LangGraph 기반 RAG Workflow와
-ChromaDB를 활용한 AI Assistant
-
-* FastAPI
-* LangGraph
-* LangChain
-* OpenAI API
-* ChromaDB
-* RAG Pipeline
-
-**`Python` `FastAPI` `LangGraph` `RAG` `LLM`**
-
-</td>
-</tr>
-
 <tr>
 <td width="50%">
 
