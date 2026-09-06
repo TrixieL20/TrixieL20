@@ -12,7 +12,7 @@ I focus on **Backend development with Java and Spring**, while building hands-on
 ## 🧑‍💻 About Me
 
 🎓 **Pukyong National University**
-Computer Engineering · B.S., 2025
+Computer Engineering · B.S. 2025
 
 💻 **Microsoft Datacenter Technician Intern**
 Datacenter Break/Fix · Hardware · Network · Infrastructure, 2026
