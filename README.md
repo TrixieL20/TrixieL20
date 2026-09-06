@@ -60,6 +60,8 @@ Cloud-based Backend Engineering, 2024
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
+<br>
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://ghstats.dev/api/card?username=TrixieL20&theme=light&border_radius=41)
