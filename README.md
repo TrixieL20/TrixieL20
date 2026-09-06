@@ -64,146 +64,131 @@ Cloud-based Backend Engineering
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
-/ *
-## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%">
+[//]: # (## 🚀 Projects)
 
-### 🗓️ PlanWith
+[//]: # ()
+[//]: # (<table>)
 
-**Automated Todo Service**
+[//]: # (<tr>)
 
-Backend Lead로 참여한 일정 관리 서비스
+[//]: # (<td width="50%">)
 
-* REST API 설계
-* Spring Boot Backend
-* Database 설계
-* Backend Architecture
-* 팀 개발 및 Git Workflow
+[//]: # ()
+[//]: # (### 🗓️ PlanWith)
 
-**`Java` `Spring Boot` `MySQL`**
+[//]: # ()
+[//]: # (**Automated Todo Service**)
 
-</td>
+[//]: # ()
+[//]: # (Backend Lead로 참여한 일정 관리 서비스)
 
-<td width="50%">
+[//]: # ()
+[//]: # (* REST API 설계)
 
-### 🎬 CINEVERSE
+[//]: # (* Spring Boot Backend)
 
-**Movie Review Platform**
+[//]: # (* Database 설계)
 
-영화 정보를 기반으로 리뷰를 작성하고
-사용자 간 영화 경험을 공유하는 서비스
+[//]: # (* Backend Architecture)
 
-* REST API
-* Backend Architecture
-* Database Design
-* Spring Boot
+[//]: # (* 팀 개발 및 Git Workflow)
 
-**`Java` `Spring Boot` `MySQL`**
+[//]: # ()
+[//]: # (**`Java` `Spring Boot` `MySQL`**)
 
-</td>
-</tr>
+[//]: # ()
+[//]: # (</td>)
 
-<tr>
-<td width="50%">
+[//]: # ()
+[//]: # (<td width="50%">)
 
-### 🗺️ TIB
+[//]: # ()
+[//]: # (### 🎬 CINEVERSE)
 
-**Busan Tourism Shorts Service**
+[//]: # ()
+[//]: # (**Movie Review Platform**)
 
-외국인 관광객을 위한 부산 관광 숏폼 서비스
+[//]: # ()
+[//]: # (영화 정보를 기반으로 리뷰를 작성하고)
 
-* AWS Infrastructure
-* ECS Fargate
-* S3 + CloudFront
-* PostgreSQL + PostGIS
-* Presigned URL
-* GitHub Actions
+[//]: # (사용자 간 영화 경험을 공유하는 서비스)
 
-**`AWS` `ECS` `S3` `CloudFront` `PostgreSQL`**
+[//]: # ()
+[//]: # (* REST API)
 
-</td>
+[//]: # (* Backend Architecture)
 
-<td width="50%">
-*/
+[//]: # (* Database Design)
 
-### 🏆 Come and Play
+[//]: # (* Spring Boot)
 
-**Hackathon · 1st Place**
+[//]: # ()
+[//]: # (**`Java` `Spring Boot` `MySQL`**)
 
-Google Developers 및 GDSC와 함께한
-해커톤 프로젝트
+[//]: # ()
+[//]: # (</td>)
 
-🥇 **1st Place**
+[//]: # (</tr>)
 
-</td>
-</tr>
-</table>
+[//]: # ()
+[//]: # (<tr>)
 
----
+[//]: # (<td width="50%">)
 
-## 💼 Experience
+[//]: # ()
+[//]: # (### 🗺️ TIB)
 
-### Microsoft · Datacenter Technician Intern
+[//]: # ()
+[//]: # (**Busan Tourism Shorts Service**)
 
-**2026**
+[//]: # ()
+[//]: # (외국인 관광객을 위한 부산 관광 숏폼 서비스)
 
-* Datacenter Break/Fix Operation
-* AOC Cable Replacement
-* System Board Replacement
-* M.2 SSD Replacement
-* Datacenter Network / OOB Infrastructure 이해
-* TOR · T1 · IDF 기반 Datacenter Topology 경험
-* Physical Audit 업무 개선 제안
+[//]: # ()
+[//]: # (* AWS Infrastructure)
 
-#### Process Improvement
+[//]: # (* ECS Fargate)
 
-**Power BI + Power Apps + Power Automate**
+[//]: # (* S3 + CloudFront)
 
-반복적인 Physical Audit / Consumable Count 업무를
-데이터 기반으로 개선하는 프로세스를 제안했습니다.
+[//]: # (* PostgreSQL + PostGIS)
 
-> Physical Audit Dashboard를 통해 Rack 단위의 Targeted Audit이 가능하도록 개선
-> → 업무 효율성 **374% 향상**
+[//]: # (* Presigned URL)
 
----
+[//]: # (* GitHub Actions)
 
-## ☁️ Cloud & Infrastructure Experience
+[//]: # ()
+[//]: # (**`AWS` `ECS` `S3` `CloudFront` `PostgreSQL`**)
 
-### Microsoft Datacenter Academy
+[//]: # ()
+[//]: # (</td>)
 
-Cloud Infrastructure와 Datacenter 환경을 직접 경험했습니다.
+[//]: # ()
+[//]: # (<td width="50%">)
 
-* AWS Cloud Architecture
-* Terraform
-* Kubernetes
-* VMware
-* Ansible
-* PXE Boot
-* Storage
-* Optical Fiber
-* MTP / MPO
-* DAC / AOC
-* QSFP
-* ToR Switch
-* VLAN / STP / ARP / DHCP
-* Datacenter Network Topology
+[//]: # (*/)
 
----
+[//]: # ()
+[//]: # (### 🏆 Come and Play)
 
-## 📚 Education
+[//]: # ()
+[//]: # (**Hackathon · 1st Place**)
 
-| Period    | Experience                                                 |
-| --------- | ---------------------------------------------------------- |
-| 2025      | 🎓 Pukyong National University · Computer Engineering      |
-| 2025      | 🚀 Naver Boostcamp Web · Basic & Challenge                 |
-| 2024      | ☁️ Programmers DevCourse · Cloud-based Backend Engineering |
-| 2025–2026 | ☁️ Microsoft Datacenter Academy                            |
-| 2026      | 💻 Microsoft Datacenter Technician Internship              |
+[//]: # ()
+[//]: # (Google Developers 및 GDSC와 함께한)
 
----
+[//]: # (해커톤 프로젝트)
+
+[//]: # ()
+[//]: # (🥇 **1st Place**)
+
+[//]: # ()
+[//]: # (</td>)
+
+[//]: # (</tr>)
+
+[//]: # (</table>)
 
 ## 📊 GitHub Stats
 
@@ -221,35 +206,6 @@ Cloud Infrastructure와 Datacenter 환경을 직접 경험했습니다.
     />
   </a>
 </p>
----
-
-## 📌 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME/NFlix">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=NFlix&hide_border=true" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/SSAFY-AI-Chatbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=SSAFY-AI-Chatbot&hide_border=true" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME/PlanWith">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PlanWith&hide_border=true" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/TIB">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=TIB&hide_border=true" />
-</a>
-
-</p>
-
----
 
 ## 🏆 Awards & Certifications
 
