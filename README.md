@@ -214,3 +214,12 @@ GDSC & PNU LINC+ · 2022
 
 🏆 **Capstone Design Competition · Teamwork Award**
 2024
+
+📜 **Engineer Information Processing**
+2024
+
+📜 **Network Manager Level 2**
+2025
+
+📜 **TOEIC Speaking · IH 140**
+2026
