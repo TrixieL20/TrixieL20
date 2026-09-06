@@ -2,11 +2,9 @@
 
 ### Backend Developer interested in **Cloud · Infrastructure · Distributed Systems**
 
-서비스의 기능 구현을 넘어
-**애플리케이션 → 데이터베이스 → 네트워크 → 인프라**까지 연결해서 생각하는 개발자를 지향합니다.
+I aim to become a developer who understands systems beyond just implementing features, thinking across the entire stack — **from applications and databases to networks and infrastructure**.
 
-Java / Spring 기반의 Backend 개발을 중심으로
-AWS, Docker, Kubernetes, Terraform 등의 Cloud & Infrastructure 기술을 학습하고 있습니다.
+I focus on **Backend development with Java and Spring**, while building hands-on experience with **AWS, Docker, Kubernetes, and Terraform** in Cloud & Infrastructure.
 
 <br>
 
@@ -31,9 +29,7 @@ Basic & Challenge Track
 🌱 **Programmers DevCourse**
 Cloud-based Backend Engineering
 
-💡 Interested in
-
-`Backend Development` · `Cloud Infrastructure` · `System Architecture`
+💡 Interested in `Backend Development` · `Cloud Infrastructure` · `System Architecture`
 
 <br>
 
