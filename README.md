@@ -85,9 +85,13 @@ GDSC & PNU LINC+ · 2022
 📜 **TOEIC Speaking · IH 140**
 2026
 
+<br>
+
+
 ## 📝 Tech Blog
 
 I write about what I learn while studying technologies, solving problems, and building projects.
+
 
 <a href="https://trixiel.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory%20Blog-000000?style=flat-square&logo=tistory&logoColor=white" />
