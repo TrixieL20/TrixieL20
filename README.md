@@ -11,29 +11,23 @@ I focus on **Backend development with Java and Spring**, while building hands-on
 
 ## 🧑‍💻 About Me
 
-🎓 **Pukyong National University**, 2025
+🎓 **Pukyong National University**
+Computer Engineering · B.S., 2025
 
-Computer Engineering · B.S.
-
-💻 **Microsoft Datacenter Technician Intern**, 2026
-
+💻 **Microsoft Datacenter Technician Intern**
 Datacenter Break/Fix · Hardware · Network · Infrastructure, 2026
 
-☁️ **Microsoft Datacenter Academy**, 2025
+☁️ **Microsoft Datacenter Academy**
+Cloud Infrastructure · Terraform · Kubernetes · Storage · PXE Boot, 2025
 
-Cloud Infrastructure · Terraform · Kubernetes · Storage · PXE Boot
+🪜 **Samsung SW·AI Academy(SSAFY)**
+Java Track, Present
 
-🪜 **Samsung SW·AI Academy(SSAFY)**, -Present
+🚀 **Naver Boostcamp Web**
+Basic & Challenge Track, 2025
 
-Java Track
-
-🚀 **Naver Boostcamp Web**, 2025
-
-Basic & Challenge Track
-
-🌱 **Programmers DevCourse**, 2024
-
-Cloud-based Backend Engineering
+🌱 **Programmers DevCourse**
+Cloud-based Backend Engineering, 2024
 
 💡 Interested in `Backend Development` · `Cloud Infrastructure` · `System Architecture`
 
