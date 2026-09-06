@@ -35,6 +35,8 @@ Cloud-based Backend Engineering
 
 `Backend Development` · `Cloud Infrastructure` · `System Architecture`
 
+<br>
+
 
 ## 🛠️ Tech Stack
 
@@ -190,6 +192,8 @@ Cloud-based Backend Engineering
 
 [//]: # (</table>)
 
+<br>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -206,6 +210,8 @@ Cloud-based Backend Engineering
     />
   </a>
 </p>
+
+<br>
 
 ## 🏆 Awards & Certifications
 
