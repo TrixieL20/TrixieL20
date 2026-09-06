@@ -62,7 +62,7 @@ Cloud-based Backend Engineering, 2024
 
 
 ## 📊 GitHub Stats
-![GitHub Stats Card](https://ghstats.dev/api/card?TrixieL20=octocat&theme=light&border_radius=14.5)
+[![GitHub Stats Card](https://ghstats.dev/api/card?TrixieL20=octocat&theme=light&border_radius=14.5)](https://ghstats.dev/api/card?username=octocat&theme=light&border_radius=14.5)
 
 <br>
 
