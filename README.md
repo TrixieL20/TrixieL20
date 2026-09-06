@@ -10,7 +10,6 @@ AWS, Docker, Kubernetes, Terraform 등의 Cloud & Infrastructure 기술을 학�
 
 <br>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -36,7 +35,6 @@ Cloud-based Backend Engineering
 
 `Backend Development` · `Cloud Infrastructure` · `System Architecture`
 
----
 
 ## 🛠️ Tech Stack
 
@@ -66,8 +64,7 @@ Cloud-based Backend Engineering
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
----
-
+/ *
 ## 🚀 Projects
 
 <table>
@@ -130,6 +127,7 @@ Backend Lead로 참여한 일정 관리 서비스
 </td>
 
 <td width="50%">
+*/
 
 ### 🏆 Come and Play
 
