@@ -255,8 +255,20 @@ Cloud Infrastructure와 Datacenter 환경을 직접 경험했습니다.
 
 ## 📊 GitHub Stats
 
-[![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrixieL20)](https://github.com/TrixieL20/github-readme-stats)
-
+<p align="center">
+  <a href="https://github.com/TrixieL20">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=TrixieL20&show_icons=true&count_private=true&hide_border=true"
+      height="170"
+    />
+  </a>
+  <a href="https://github.com/TrixieL20">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrixieL20&layout=compact&hide_border=true"
+      height="170"
+    />
+  </a>
+</p>
 ---
 
 ## 📌 Featured Projects
@@ -294,52 +306,3 @@ GDSC & PNU LINC+ · 2022
 
 🏆 **Capstone Design Competition · Teamwork Award**
 2024
-
-📜 **Engineer Information Processing**
-2024
-
-📜 **TOEIC Speaking · IH 140**
-2026
-
----
-
-## 📈 Currently
-
-```text
-Backend Development
-        ↓
-Java / Spring Boot
-        ↓
-Database & Distributed Systems
-        ↓
-AWS / Docker / Kubernetes
-        ↓
-Cloud Infrastructure
-        ↓
-System Architecture
-```
-
-Currently focusing on:
-
-* Java & Spring Boot
-* Spring Security
-* Redis
-* Kafka
-* Database Optimization
-* Test Code
-* Design Patterns
-* AWS Architecture
-* Kubernetes
-* Infrastructure as Code
-* LLM / RAG Systems
-
----
-
-## 📫 Contact
-
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square\&logo=tistory\&logoColor=white)](https://trixiel.tistory.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-<br>
-
-> **Building reliable services from application to infrastructure.**
