@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Minjung!
+# 👋 Hi, I'm MinJung!
 
 ### Backend Developer interested in **Cloud · Infrastructure · Distributed Systems**
 
@@ -255,14 +255,7 @@ Cloud Infrastructure와 Datacenter 환경을 직접 경험했습니다.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&hide_border=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true" />
-</p>
+[![MinJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrixieL20)](https://github.com/TrixieL20/github-readme-stats)
 
 ---
 
