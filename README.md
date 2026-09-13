@@ -17,14 +17,11 @@ Computer Engineering · B.S. 2025
 💻 **Microsoft Datacenter Technician Intern**
 Datacenter Break/Fix · Hardware · Network · Infrastructure, 2026
 
-☁️ **Microsoft Datacenter Academy**
-Cloud Infrastructure · Terraform · Kubernetes · Storage · PXE Boot, 2025
-
 🪜 **Samsung SW·AI Academy(SSAFY)**
 Java Track, Present
 
-🚀 **Naver Boostcamp Web**
-Basic & Challenge Track, 2025
+☁️ **Microsoft Datacenter Academy**
+Cloud Infrastructure · Terraform · Kubernetes · Storage · PXE Boot, 2025
 
 🌱 **Programmers DevCourse**
 Cloud-based Backend Engineering, 2024
